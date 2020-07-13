@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Slider
+comment1.params=
+comment1.target=Slider()
+comment2.params=e
+comment2.target=void\ stateChanged(javax.swing.event.ChangeEvent)
+numComments=3

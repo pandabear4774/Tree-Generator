@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Branches
+comment1.params=parent
+comment1.target=Branches(int)
+comment2.params=
+comment2.target=int\ getX()
+comment3.params=
+comment3.target=int\ getY()
+comment4.params=
+comment4.target=void\ setCordinates()
+comment5.params=
+comment5.target=double\ getAngle()
+comment6.params=newValue
+comment6.target=void\ setAngle(double)
+comment7.params=direction
+comment7.target=void\ calculateEndCordinates(int)
+comment8.params=g
+comment8.target=void\ paint(java.awt.Graphics)
+numComments=9
